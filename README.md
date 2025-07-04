@@ -1,17 +1,17 @@
-# 🧠 K-Means Clustering on Mall Customer Dataset
+# K-Means Clustering on Mall Customer Dataset
 
 This project demonstrates unsupervised machine learning using **K-Means Clustering** to identify customer segments from the **Mall Customer Segmentation Dataset**. It includes exploratory data analysis (EDA), clustering using the Elbow Method, dimensionality reduction using PCA, and evaluation using Silhouette Score.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Perform **unsupervised learning** to group mall customers based on common characteristics.
 - Use **K-Means** algorithm to identify natural clusters in the dataset.
 
 ---
 
-## 🛠️ Tools and Libraries
+## Tools and Libraries
 
 - **Python**
 - **Pandas**
@@ -21,7 +21,7 @@ This project demonstrates unsupervised machine learning using **K-Means Clusteri
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - `Mall_Customers.csv`  
 - Contains 200 customer records with the following fields:
@@ -33,7 +33,7 @@ This project demonstrates unsupervised machine learning using **K-Means Clusteri
 
 ---
 
-## 📊 Workflow
+## Workflow
 
 ### 1. Exploratory Data Analysis (EDA)
 - Summary statistics
@@ -61,7 +61,7 @@ This project demonstrates unsupervised machine learning using **K-Means Clusteri
 
 ---
 
-## 📈 Output
+## Output
 
 - Elbow plot for optimal `k`
 - Cluster visualization using PCA
